@@ -40,7 +40,7 @@ This project implements a Log Ingestor system and a Query Interface for efficien
 - CLI Commands
     - Search Logs:
        - Command: search
-       - Description: Initiate a search for logs based on selected attributes.
+       - Description: Initiate with search for logs based on selected attributes.
        - Interactive prompts guide you through selecting attributes, entering search values, and applying filters.
     
     - Attributes Available for Search
